@@ -6,6 +6,8 @@ Tap challenge. Minesweeper Video Game
 
 [PLAY IT!](https://1ag6unegl7.execute-api.us-west-1.amazonaws.com/dev/)
 
+![Minesweeper board](minesweeper-board.png)
+
 # requirements
 
 - [serverless](https://www.npmjs.com/package/serverless): `npm install -g serverless`
